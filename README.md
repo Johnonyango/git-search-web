@@ -3,7 +3,7 @@
 {This project is an Angular app that tests on sveral Angular concepts. It helps in seraching any Github user of the user's choice }
 
 ## Setup/Installation Requirements
-clone to link (https://johnonyango.github.io/git-search-web/)
+clone to link (https://github.com/Johnonyango/git-search-web.git)
 cd git-search-web to your directory
 ng serve with your browser
 edit the browser as per any necessity
