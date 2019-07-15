@@ -1,10 +1,10 @@
 ### By {John Onyango}
 ## Description
-{This project is an Angular app that tests on sveral Angular concepts like creating components, classes, pipes and directives. }
+{This project is an Angular app that tests on sveral Angular concepts. It helps in seraching any Github user of the user's choice }
 
 ## Setup/Installation Requirements
-clone to link
-cd Quotes to your directory
+clone to link (https://johnonyango.github.io/git-search-web/)
+cd git-search-web to your directory
 ng serve with your browser
 edit the browser as per any necessity
 # Practice
@@ -21,14 +21,15 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 ## Project live site
 
- This is the live .[ Click for the demo](https://calvince.github.io/GSearch/)
+ This is the live .[ Click for the demo](https://johnonyango.github.io/git-search-web/)
 
 ## Languages & Technologies used
 
 HTML5
 CSS
+Javascript(typescript)
 MDbootstrap
-Angular 7
+Angular
 Github Api
 
 ## Behavior Driven Development
