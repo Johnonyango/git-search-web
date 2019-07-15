@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl: "6d11b6cd9e6f91316808d1d897bbb842a1ec1f6f",
+  apiUrl: "ffe625b95e687f9319d77d06497bd334710f381e",
 };
 
 
