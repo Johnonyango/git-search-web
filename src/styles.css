@@ -1,3 +1,7 @@
+
+/* body{
+  background-image: url("https://wallpapercave.com/wp/9g61Uwu.jpg")
+} */
 html,
 body,
 header,
@@ -5,61 +9,8 @@ header,
   height: 100%;
 }
 
-.view {
-  height: 90%;
-}
-.kimonyoski {
-    margin-top: 150px !important;
-}
-
-i {
-  font-size: 2em;
-}
-
-.text-small {
-  font-size: 0.75rem;
-}
- .card {
-   margin-top: 20px;
-   margin-bottom: 20px;
- }
-
- form {
-   margin: 0 auto !important;
- }
- @media (max-width: 740px) {
-  html,
-  body,
-  header,
-  .view {
-    height: 100vh;
-  }
-}
-
-.top-nav-collapse {
-  background-color: #2E2E2E !important;
-}
-
-.navbar:not(.top-nav-collapse) {
-  background: transparent !important;
-}
-
-@media (max-width: 991px) {
-  .navbar:not(.top-nav-collapse) {
-    background: #2E2E2E !important;
-    background: transparent !important;
-  }
-}
-
-h1 {
-  letter-spacing: 8px;
-}
-
-h5 {
-  letter-spacing: 3px;
-}
-
-.hr-light {
-  border-top: 3px solid #fff;
-  width: 80px;
+h1{
+  color: red;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }
