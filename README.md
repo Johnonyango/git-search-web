@@ -1,3 +1,12 @@
+### By {John Onyango}
+## Description
+{This project is an Angular app that tests on sveral Angular concepts like creating components, classes, pipes and directives. }
+
+## Setup/Installation Requirements
+clone to link
+cd Quotes to your directory
+ng serve with your browser
+edit the browser as per any necessity
 # Practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
@@ -14,7 +23,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
  This is the live .[ Click for the demo](https://calvince.github.io/GSearch/)
 
-## Languages used
+## Languages & Technologies used
 
 HTML5
 CSS
@@ -30,16 +39,10 @@ Github Api
      <th>Output</th>
    </tr>
    <tr>
-       <td>Show user</td>
-       <td>Enter name</td>
-       <td>Show profile</td>
+       <td>Requests github usre's name</td>
+       <td>Enter github users name</td>
+       <td>Shows repository profile</td>
    </tr>
-   <tr>
-       <td>Enter Git username</td>
-       <td>Enter username</td>
-       <td>Show repo</td>
-   </tr>
-
 </table>
 
 ## Build
@@ -60,7 +63,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # GSearch
 
 ## Support and contact details
-contact me @wilsonowino1@gmail.com
+Contact us: j.yayah7@gmail.com
 ### License
-The project is under [MIT license](https://github.com/mucciz/GSearch/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reserved
+*{MIT License
+
+Copyright (c) [2019] [JOHN ONYANGO]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. }* Copyright (c) {2019} {JOHN ONYANGO}
